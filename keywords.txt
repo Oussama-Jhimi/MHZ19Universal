@@ -1,0 +1,9 @@
+MHZ19	Keyword
+readCO2	Function
+readTemperature	Function
+calibrateZero	Function
+calibrateSpan	Function
+enableAutoCalibration	Function
+setRange	Function
+unlock	Function
+lock	Function
